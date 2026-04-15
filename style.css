@@ -1,0 +1,32 @@
+aside {
+    border: 4px solid black;
+    width:  260px;
+    height: 100vh;
+    background-color: lightgray;
+}
+aside h1 {
+    border-bottom: 4px solid black;
+    padding-bottom: 20px;
+}
+
+aside h2 {
+    margin-top: 10px;
+    margin-inline: 20px;
+    width:fit-content;
+}
+
+
+aside div {
+    display:flex;
+}
+
+#sigma-container {
+    border: 2px solid black;
+    flex: 1;
+}
+
+body {
+    display: flex;
+    margin: 0;
+    height: 100vh;
+}
