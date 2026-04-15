@@ -1,5 +1,5 @@
 # To install dependencies:
 `npm i`
 
-#To test:
+# To test:
 `npm run dev`
