@@ -9,7 +9,7 @@ import forceAtlas2 from "graphology-layout-forceatlas2";
  */
 async function loadGraph() {
 
-    const response = await fetch("./data.json");
+    const response = await fetch("/MovieGenres/data.json");
     const graphData = await response.json();
     return graphData;
 }

@@ -1,0 +1,86 @@
+[
+    {
+        "id" : 1,
+        "name" : "Evil Dead",
+        "acronym" : "ED",
+        "genre" : "Horror",
+        "link" : "https://www.imdb.com/title/tt0083907/"
+    },
+    {
+        "id" : 2,
+        "name" : "Army Of Darkness",
+        "acronym" : "AOD",
+        "genre" : "Horror",
+        "link" : "https://www.imdb.com/title/tt0106308"
+    },
+    {
+        "id" : 3,
+        "name" : "Forest Gump",
+        "acronym" : "FG",
+        "genre" : "Comedy",
+        "link" : "https://www.imdb.com/title/tt0109830/"
+    },
+    {
+        "id" : 4,
+        "name" : "Project Hailmary",
+        "acronym" : "PH",
+        "genre" : "Sci-Fi",
+        "link" : "https://www.imdb.com/title/tt12042730/"
+    },
+    {
+        "id" : 5,
+        "name" : "The Big Lebowski",
+        "acronym" : "BL",
+        "genre" : "Comedy",
+        "link" : "https://www.imdb.com/title/tt0118715/"
+    },
+    {
+        "id" : 6,
+        "name" : "The Martian",
+        "acronym" : "TM",
+        "genre" : "Sci-Fi",
+        "link" : "https://www.imdb.com/title/tt3659388"
+    },
+    {
+        "id" : 7,
+        "name" : "The Thing",
+        "acronym" : "TT",
+        "genre" : "Horror",
+        "link" : "https://www.imdb.com/title/tt0084787"
+    },
+    {
+        "id" : 8,
+        "name" : "21 Jump Street",
+        "acronym" : "JS",
+        "genre" : "Comedy",
+        "link" : "https://www.imdb.com/title/tt1232829/"
+    },
+    {
+        "id" : 9,
+        "name" : "Ender's Game",
+        "acronym" : "EG",
+        "genre" : "Sci-Fi",
+        "link" : "https://www.imdb.com/title/tt1731141/"
+    },
+    {
+        "id" : 10,
+        "name" : "Nightmare On Elm Street",
+        "acronym" : "NES",
+        "genre" : "Horror",
+        "link" : "https://www.imdb.com/title/tt0087800"
+    },
+    {
+        "id" : 11,
+        "name" : "The Invisible Man",
+        "acronym" : "IM",
+        "genre" : "Horror",
+        "link" : "https://www.imdb.com/title/tt0024184/"
+    },
+    {
+        "id" : 12,
+        "name" : "Train To Busan",
+        "acronym" : "TB",
+        "genre" : "Horror",
+        "link" : "https://www.imdb.com/title/tt5700672"
+    }
+]
